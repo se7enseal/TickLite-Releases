@@ -12,6 +12,16 @@ TickLite 是一款**免费的 Windows 桌面时间助手**：轻量、单文件�
 - **本地音乐播放器** —— 支持 MP3 / WAV / FLAC；播放列表可导入文件 / 文件夹、多选批量移除；进度条点击精确跳转；歌名超宽自动滚动；隐藏窗口后音乐继续播放
 - **外观自定义** —— 内置设置窗口：文字颜色、字号、透明度、鼠标穿透与置顶开关
 
+## 界面截图
+
+| 桌面悬浮时钟 | 设置窗口 |
+|:---:|:---:|
+| ![桌面悬浮时钟](images/clock.png) | ![设置窗口](images/settings.png) |
+
+| 本地音乐播放器 | 备忘提醒 |
+|:---:|:---:|
+| ![本地音乐播放器](images/music.png) | ![备忘提醒](images/memo.png) |
+
 ## 下载
 
 前往 [Releases](https://github.com/se7enseal/TickLite-Releases/releases) 页面下载最新版：
